@@ -1,7 +1,7 @@
 # Retail-Sales-Data-Analysis
 
 ✅ Business Model
-A retail or e-commerce company that sells various products (like bikes, accessories, clothing, and bottles) to customers across different countries. It stores data about customers, products, and sales transactions for analysis and decision-making.
+A retail company that sells various products (like bikes, accessories, clothing, and bottles) to customers across different countries. It stores data about customers, products, and sales transactions for analysis and decision-making.
 
 
 🎯 Business Objective
