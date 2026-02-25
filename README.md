@@ -1,5 +1,7 @@
 # Retail-Sales-Data-Analysis
 
+_**This project is now consolidated under Enterprise-Retail-Performance-Analytics.**_
+
 ✅ Business Model
 A retail company that sells various products (like bikes, accessories, clothing, and bottles) to customers across different countries. It stores data about customers, products, and sales transactions for analysis and decision-making.
 
